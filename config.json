@@ -1,0 +1,16 @@
+{
+  "origin": { "name": "London St Pancras", "uic": "7015400" },
+  "destinations": [
+    { "name": "Paris Gare du Nord", "uic": "8727100" },
+    { "name": "Brussels Midi", "uic": "8814001" },
+    { "name": "Amsterdam Centraal", "uic": "8400058" },
+    { "name": "Lille Europe", "uic": "8722326" },
+    { "name": "Rotterdam Centraal", "uic": "8400530" }
+  ],
+  "dates": ["2026-10-31", "2026-11-01", "2026-11-02"],
+  "passengers": 1,
+  "currency": "GBP",
+  "alert_on_new_availability": true,
+  "alert_on_price_drop": true,
+  "also_log_standard_fare": true
+}
