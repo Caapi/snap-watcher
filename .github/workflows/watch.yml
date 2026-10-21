@@ -3,10 +3,15 @@ name: Snap watcher
 on:
   schedule:
     - cron: "*/5 * * * *"   # every 5 minutes (GitHub sometimes runs these late)
-  workflow_dispatch:         # lets you press "Run workflow" by hand
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Just send a test email"
+        type: boolean
+        default: false
 
 permissions:
-  contents: write            # needed to commit the price log back to the repo
+  contents: write
 
 concurrency:
   group: snap-watcher
@@ -17,9 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -28,7 +33,12 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           ALERT_TO: ${{ secrets.ALERT_TO }}
-        run: python watcher.py
+        run: |
+          if [ "${{ inputs.test_email }}" = "true" ]; then
+            python watcher.py --test-email
+          else
+            python watcher.py
+          fi
 
       - name: Save price snapshot
         run: |
