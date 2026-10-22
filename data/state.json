@@ -1,6 +1,12 @@
 {
-  "consecutive_failures": 0,
-  "errors_this_run": [],
+  "consecutive_failures": 1,
+  "errors_this_run": [
+    "London St Pancras \u2192 Paris Gare du Nord: API error: Sqills S3 Responded with - 503 Service Unavailable",
+    "London St Pancras \u2192 Brussels Midi: API error: Sqills S3 Responded with - 503 Service Unavailable",
+    "London St Pancras \u2192 Amsterdam Centraal: API error: Sqills S3 Responded with - 503 Service Unavailable",
+    "London St Pancras \u2192 Lille Europe: API error: Sqills S3 Responded with - 503 Service Unavailable",
+    "London St Pancras \u2192 Rotterdam Centraal: API error: Sqills S3 Responded with - 503 Service Unavailable"
+  ],
   "failure_alerted": false,
   "last": {
     "8400058|2026-10-30": 50,
@@ -23,5 +29,6 @@
     "8814001|2026-10-31": 45,
     "8814001|2026-11-01": null,
     "8814001|2026-11-02": null
-  }
+  },
+  "last_error": "London St Pancras \u2192 Paris Gare du Nord: API error: Sqills S3 Responded with - 503 Service Unavailable"
 }
