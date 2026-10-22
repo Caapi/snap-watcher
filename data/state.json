@@ -1,25 +1,19 @@
 {
-  "consecutive_failures": 3,
-  "errors_this_run": [
-    "London St Pancras \u2192 Paris Gare du Nord: HTTP 504",
-    "London St Pancras \u2192 Brussels Midi: API error: 503: Service Unavailable",
-    "London St Pancras \u2192 Amsterdam Centraal: API error: 503: Service Unavailable",
-    "London St Pancras \u2192 Lille Europe: API error: 503: Service Unavailable",
-    "London St Pancras \u2192 Rotterdam Centraal: API error: 503: Service Unavailable"
-  ],
-  "failure_alerted": true,
+  "consecutive_failures": 0,
+  "errors_this_run": [],
+  "failure_alerted": false,
   "last": {
     "8400058|2026-10-30": 50,
     "8400058|2026-10-31": null,
-    "8400058|2026-11-01": null,
+    "8400058|2026-11-01": 50,
     "8400058|2026-11-02": null,
     "8400530|2026-10-30": 50,
     "8400530|2026-10-31": null,
-    "8400530|2026-11-01": null,
+    "8400530|2026-11-01": 50,
     "8400530|2026-11-02": null,
     "8722326|2026-10-30": null,
     "8722326|2026-10-31": 45,
-    "8722326|2026-11-01": null,
+    "8722326|2026-11-01": 65,
     "8722326|2026-11-02": null,
     "8727100|2026-10-30": null,
     "8727100|2026-10-31": 75,
@@ -27,7 +21,7 @@
     "8727100|2026-11-02": null,
     "8814001|2026-10-30": null,
     "8814001|2026-10-31": 45,
-    "8814001|2026-11-01": null,
+    "8814001|2026-11-01": 55,
     "8814001|2026-11-02": null
   },
   "last_error": "London St Pancras \u2192 Paris Gare du Nord: HTTP 504"
