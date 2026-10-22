@@ -1354,3 +1354,18 @@ checked_at_utc,route,date,snap_price,standard_price,status
 2026-10-22T00:01:02Z,London St Pancras → Rotterdam Centraal,2026-10-31,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
 2026-10-22T00:01:02Z,London St Pancras → Rotterdam Centraal,2026-11-01,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
 2026-10-22T00:01:02Z,London St Pancras → Rotterdam Centraal,2026-11-02,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Paris Gare du Nord,2026-10-31,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Paris Gare du Nord,2026-11-01,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Paris Gare du Nord,2026-11-02,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Brussels Midi,2026-10-31,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Brussels Midi,2026-11-01,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Brussels Midi,2026-11-02,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Amsterdam Centraal,2026-10-31,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Amsterdam Centraal,2026-11-01,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Amsterdam Centraal,2026-11-02,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Lille Europe,2026-10-31,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Lille Europe,2026-11-01,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Lille Europe,2026-11-02,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Rotterdam Centraal,2026-10-31,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Rotterdam Centraal,2026-11-01,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable
+2026-10-22T00:10:34Z,London St Pancras → Rotterdam Centraal,2026-11-02,,,error: API error: Sqills S3 Responded with - 503 Service Unavailable

@@ -1,5 +1,5 @@
 {
-  "consecutive_failures": 1,
+  "consecutive_failures": 2,
   "errors_this_run": [
     "London St Pancras \u2192 Paris Gare du Nord: API error: Sqills S3 Responded with - 503 Service Unavailable",
     "London St Pancras \u2192 Brussels Midi: API error: Sqills S3 Responded with - 503 Service Unavailable",
