@@ -4174,3 +4174,18 @@ checked_at_utc,route,date,snap_price,standard_price,status
 2026-10-23T06:10:36Z,London St Pancras → Rotterdam Centraal,2026-10-31,,127,ok
 2026-10-23T06:10:36Z,London St Pancras → Rotterdam Centraal,2026-11-01,50,127,ok
 2026-10-23T06:10:36Z,London St Pancras → Rotterdam Centraal,2026-11-02,40,98,ok
+2026-10-23T06:20:34Z,London St Pancras → Paris Gare du Nord,2026-10-31,,180,ok
+2026-10-23T06:20:34Z,London St Pancras → Paris Gare du Nord,2026-11-01,,228,ok
+2026-10-23T06:20:34Z,London St Pancras → Paris Gare du Nord,2026-11-02,55,102,ok
+2026-10-23T06:20:34Z,London St Pancras → Brussels Midi,2026-10-31,45,110,ok
+2026-10-23T06:20:34Z,London St Pancras → Brussels Midi,2026-11-01,,144,ok
+2026-10-23T06:20:34Z,London St Pancras → Brussels Midi,2026-11-02,45,110,ok
+2026-10-23T06:20:34Z,London St Pancras → Amsterdam Centraal,2026-10-31,,127,ok
+2026-10-23T06:20:34Z,London St Pancras → Amsterdam Centraal,2026-11-01,50,127,ok
+2026-10-23T06:20:34Z,London St Pancras → Amsterdam Centraal,2026-11-02,40,98,ok
+2026-10-23T06:20:34Z,London St Pancras → Lille Europe,2026-10-31,45,110,ok
+2026-10-23T06:20:34Z,London St Pancras → Lille Europe,2026-11-01,,161,ok
+2026-10-23T06:20:34Z,London St Pancras → Lille Europe,2026-11-02,45,127,ok
+2026-10-23T06:20:34Z,London St Pancras → Rotterdam Centraal,2026-10-31,,127,ok
+2026-10-23T06:20:34Z,London St Pancras → Rotterdam Centraal,2026-11-01,50,127,ok
+2026-10-23T06:20:34Z,London St Pancras → Rotterdam Centraal,2026-11-02,40,98,ok
