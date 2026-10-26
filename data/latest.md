@@ -1,6 +1,6 @@
 # Latest Snap check
 
-Checked Mon 26 Oct 2026, 08:10 (London time).
+Checked Mon 26 Oct 2026, 08:20 (London time).
 
 | Route | Date | Snap | Standard |
 |---|---|---|---|
@@ -12,12 +12,12 @@ Checked Mon 26 Oct 2026, 08:10 (London time).
 | London St Pancras → Brussels Midi | Mon 2 Nov | £55 | £127 |
 | London St Pancras → Amsterdam Centraal | Sat 31 Oct | £60 | £150 |
 | London St Pancras → Amsterdam Centraal | Sun 1 Nov | sold out | £127 |
-| London St Pancras → Amsterdam Centraal | Mon 2 Nov | £60 | £110 |
+| London St Pancras → Amsterdam Centraal | Mon 2 Nov | £50 | £110 |
 | London St Pancras → Lille Europe | Sat 31 Oct | £45 | £127 |
 | London St Pancras → Lille Europe | Sun 1 Nov | sold out | £161 |
 | London St Pancras → Lille Europe | Mon 2 Nov | £55 | £127 |
 | London St Pancras → Rotterdam Centraal | Sat 31 Oct | £60 | £150 |
 | London St Pancras → Rotterdam Centraal | Sun 1 Nov | sold out | £127 |
-| London St Pancras → Rotterdam Centraal | Mon 2 Nov | £60 | £110 |
+| London St Pancras → Rotterdam Centraal | Mon 2 Nov | £50 | £110 |
 
 Full history: [prices.csv](prices.csv)
