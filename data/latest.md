@@ -1,10 +1,10 @@
 # Latest Snap check
 
-Checked Mon 26 Oct 2026, 17:31 (London time).
+Checked Mon 26 Oct 2026, 17:40 (London time).
 
 | Route | Date | Snap | Standard |
 |---|---|---|---|
-| London St Pancras → Paris Gare du Nord | Sat 31 Oct | £70 | £114 |
+| London St Pancras → Paris Gare du Nord | Sat 31 Oct | sold out | £114 |
 | London St Pancras → Paris Gare du Nord | Sun 1 Nov | sold out | £204 |
 | London St Pancras → Paris Gare du Nord | Mon 2 Nov | £55 | £114 |
 | London St Pancras → Brussels Midi | Sat 31 Oct | £55 | £127 |
