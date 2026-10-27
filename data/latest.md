@@ -1,6 +1,6 @@
 # Latest Snap check
 
-Checked Tue 27 Oct 2026, 00:40 (London time).
+Checked Tue 27 Oct 2026, 00:47 (London time).
 
 | Route | Date | Snap | Standard |
 |---|---|---|---|
