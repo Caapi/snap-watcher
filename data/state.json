@@ -1,6 +1,8 @@
 {
   "consecutive_failures": 0,
-  "errors_this_run": [],
+  "errors_this_run": [
+    "London St Pancras \u2192 Brussels Midi: HTTP 500"
+  ],
   "failure_alerted": false,
   "last": {
     "8400058|2026-10-30": 50,
