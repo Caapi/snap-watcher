@@ -23084,3 +23084,8 @@ checked_at_utc,route,date,snap_price,standard_price,status
 2026-11-01T04:20:31Z,London St Pancras → Amsterdam Centraal,2026-11-02,60,150,ok
 2026-11-01T04:20:31Z,London St Pancras → Lille Europe,2026-11-02,,184,ok
 2026-11-01T04:20:31Z,London St Pancras → Rotterdam Centraal,2026-11-02,60,150,ok
+2026-11-01T04:30:44Z,London St Pancras → Paris Gare du Nord,2026-11-02,75,156,ok
+2026-11-01T04:30:44Z,London St Pancras → Brussels Midi,2026-11-02,,144,ok
+2026-11-01T04:30:44Z,London St Pancras → Amsterdam Centraal,2026-11-02,60,150,ok
+2026-11-01T04:30:44Z,London St Pancras → Lille Europe,2026-11-02,,184,ok
+2026-11-01T04:30:44Z,London St Pancras → Rotterdam Centraal,2026-11-02,60,150,ok
