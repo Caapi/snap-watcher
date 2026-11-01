@@ -23569,3 +23569,8 @@ checked_at_utc,route,date,snap_price,standard_price,status
 2026-11-01T20:00:55Z,London St Pancras → Amsterdam Centraal,2026-11-02,60,150,ok
 2026-11-01T20:00:55Z,London St Pancras → Lille Europe,2026-11-02,,184,ok
 2026-11-01T20:00:55Z,London St Pancras → Rotterdam Centraal,2026-11-02,60,150,ok
+2026-11-01T20:10:34Z,London St Pancras → Paris Gare du Nord,2026-11-02,,,error: API error: 503: Service Unavailable
+2026-11-01T20:10:34Z,London St Pancras → Brussels Midi,2026-11-02,,161,ok
+2026-11-01T20:10:34Z,London St Pancras → Amsterdam Centraal,2026-11-02,60,150,ok
+2026-11-01T20:10:34Z,London St Pancras → Lille Europe,2026-11-02,,184,ok
+2026-11-01T20:10:34Z,London St Pancras → Rotterdam Centraal,2026-11-02,60,150,ok
